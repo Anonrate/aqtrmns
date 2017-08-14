@@ -1,23 +1,23 @@
 StartChar: uniE0B0
 Encoding: 57520 57520 1286
-Width: 1024
+Width: 1020
 VWidth: 0
 Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1638 64 64 0
+Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:N.M^]<9mn,W4`quH]rrrE(Ls1nZms7$'`s8;ors8W-!s8N&rs7lW`s5<pms+(+LrW)ir
 p]0d`huLOmJ,fQL
 EndImage
 Fore
 SplineSet
-0 614 m 1,0,-1
- 0 1670 l 1,1,-1
- 528 1142 l 1,2,-1
- 1056 614 l 1,3,-1
- 528 86 l 1,4,-1
- 0 -442 l 1,5,-1
- 0 614 l 1,0,-1
+0 612 m 1,0,-1
+ 0 1663 l 1,1,-1
+ 526 1138 l 1,2,-1
+ 1052 612 l 1,3,-1
+ 526 86 l 1,4,-1
+ 0 -440 l 1,5,-1
+ 0 612 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar

@@ -1,20 +1,20 @@
 StartChar: period
 Encoding: 46 46 17
-Width: 1024
+Width: 1020
 VWidth: 0
 Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1638 64 64 0
+Image: 16 32 0 2 2 0 0 1657.6 63.75 63.75 0
 mHj.hJ:IV"zzzzzzzzzz!!!%M!It3$!It.Mzzz
 EndImage
 Fore
 SplineSet
-512 100 m 156,-1,1
- 576 100 576 100 576 38 c 28,2,3
- 576 -26 576 -26 512 -26 c 156,-1,4
- 448 -26 448 -26 448 38 c 28,5,0
- 448 100 448 100 512 100 c 156,-1,1
+510 126 m 156,-1,1
+ 574 126 574 126 574 64 c 28,2,3
+ 574 0 574 0 510 0 c 156,-1,4
+ 446 0 446 0 446 64 c 28,5,0
+ 446 126 446 126 510 126 c 156,-1,1
 EndSplineSet
 Validated: 1
 Comment: "When I think of a +ACIA-Period+ACIA, I think of it as being a dot, and when I say +ACIA-Dot+ACIA I mean as a square.  The default style of the period in Terminus is more so like a rectangle rather than a square.  So with that being said I have modified the period to look more +ACIA-Period+ACIA like and transformed it into a square.+AAoACgAA-There also appears to be a problem with this character.  Apparently the +ACIA-Advanced Width+ACIA needs to be 500 if I remember what it said correctly.+AAoACgAA-Actually apparently they all have that problem.  (I'm assuming just because I checked the previous one.  Makes sence though)"

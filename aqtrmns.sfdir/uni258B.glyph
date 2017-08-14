@@ -1,25 +1,25 @@
 StartChar: uni258B
 Encoding: 9611 9611 975
-Width: 1024
+Width: 1020
 VWidth: 0
 Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1638 64 64 0
+Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:R[8s1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZMs1nZM
 s1nZMs1nZMs1eU7
 EndImage
 Fore
 SplineSet
-0 614 m 1,0,-1
- 0 1638 l 1,1,-1
- 320 1638 l 1,2,-1
- 640 1638 l 1,3,-1
- 640 614 l 1,4,-1
- 640 -410 l 1,5,-1
- 320 -410 l 1,6,-1
- 0 -410 l 1,7,-1
- 0 614 l 1,0,-1
+0 612 m 1,0,-1
+ 0 1632 l 1,1,-1
+ 319 1632 l 1,2,-1
+ 638 1632 l 1,3,-1
+ 638 612 l 1,4,-1
+ 638 -408 l 1,5,-1
+ 319 -408 l 1,6,-1
+ 0 -408 l 1,7,-1
+ 0 612 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
