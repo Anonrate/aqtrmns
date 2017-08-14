@@ -1,24 +1,12 @@
 StartChar: uni2574
-Encoding: 9588 9588 952
-Width: 1020
+Encoding: 9588 9588 951
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzzzzzs+(-"zzzzzzzz
 EndImage
 Fore
-SplineSet
-0 611.5 m 128,-1,1
- 0 638 0 638 83.5 656.5 c 128,-1,2
- 167 675 167 675 286.5 675 c 128,-1,3
- 406 675 406 675 490 656.5 c 128,-1,4
- 574 638 574 638 574 611.5 c 128,-1,5
- 574 585 574 585 490 566.5 c 128,-1,6
- 406 548 406 548 286.5 548 c 128,-1,7
- 167 548 167 548 83.5 566.5 c 128,-1,0
- 0 585 0 585 0 611.5 c 128,-1,1
-EndSplineSet
 Validated: 1
 EndChar

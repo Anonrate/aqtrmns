@@ -1,33 +1,12 @@
 StartChar: uniFFFD
-Encoding: 65533 65533 1291
-Width: 1020
+Encoding: 65533 65533 1290
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zz!!#7]5Q!2D0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FTWD0FU2D5PtK]zzz
 EndImage
 Fore
-SplineSet
-128 612 m 1,0,-1
- 128 1249 l 1,1,-1
- 510 1249 l 1,2,-1
- 892 1249 l 1,3,-1
- 892 612 l 1,4,-1
- 892 -26 l 1,5,-1
- 510 -26 l 1,6,-1
- 128 -26 l 1,7,-1
- 128 612 l 1,0,-1
-765 612 m 1,8,-1
- 765 1122 l 1,9,-1
- 510 1122 l 1,10,-1
- 255 1122 l 1,11,-1
- 255 612 l 1,12,-1
- 255 102 l 1,13,-1
- 510 102 l 1,14,-1
- 765 102 l 1,15,-1
- 765 612 l 1,8,-1
-EndSplineSet
 Validated: 1
 EndChar

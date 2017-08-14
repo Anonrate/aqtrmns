@@ -1,35 +1,14 @@
 StartChar: uni2080
-Encoding: 8320 8320 705
-Width: 1020
+Encoding: 8320 8320 704
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzzzzzz!!!,:#N-"E$nr)D$nr)D$nr)D#N,^"zz
 EndImage
 Fore
-SplineSet
-382 325 m 30,0,-1
- 382 -58 l 26,1,2
- 382 -90 382 -90 414 -90 c 24,3,4
- 510 -90 510 -90 606 -90 c 24,5,6
- 638 -90 638 -90 638 -58 c 26,7,-1
- 638 325 l 26,8,9
- 638 357 638 357 606 357 c 24,10,11
- 510 357 510 357 414 357 c 24,12,13
- 382 357 382 357 382 325 c 30,0,-1
-255 357 m 26,14,15
- 255 485 255 485 382.5 484.5 c 152,-1,16
- 510 484 510 484 637.5 484 c 152,-1,17
- 765 484 765 484 765 357 c 26,18,-1
- 765 -90 l 26,19,20
- 765 -218 765 -218 637.5 -217.5 c 152,-1,21
- 510 -217 510 -217 382.5 -217 c 152,-1,22
- 255 -217 255 -217 255 -90 c 30,23,-1
- 255 357 l 26,14,15
-EndSplineSet
-Validated: 33
+Validated: 1
 Comment: "May want to add slash through the zero like the normal size one has.."
 Colour: ffff00
 EndChar

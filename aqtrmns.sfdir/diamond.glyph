@@ -1,26 +1,12 @@
 StartChar: diamond
-Encoding: 9830 9830 1015
-Width: 1020
+Encoding: 9830 9830 1014
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzz!It9f#N--^+8A(uJ,Xrs5PuVu&+Bh^"2Fqfzzzzz
 EndImage
 Fore
-SplineSet
-255 835 m 2,0,1
- 344 926 344 926 419 992 c 128,-1,2
- 494 1058 494 1058 510 1058 c 128,-1,3
- 526 1058 526 1058 601 991.5 c 128,-1,4
- 676 925 676 925 765 835 c 2,5,-1
- 982 612 l 1,6,-1
- 746 373 l 1,7,-1
- 510 133 l 1,8,-1
- 274 373 l 1,9,-1
- 38 612 l 1,10,-1
- 255 835 l 2,0,1
-EndSplineSet
 Validated: 1
 EndChar

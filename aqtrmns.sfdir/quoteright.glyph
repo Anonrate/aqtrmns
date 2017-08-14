@@ -1,24 +1,12 @@
 StartChar: quoteright
-Encoding: 8217 8217 673
-Width: 1020
+Encoding: 8217 8217 672
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"z!!!%M!It3$!It7P!rr<$zzzzzzzzzzz
 EndImage
 Fore
-SplineSet
-428 1198 m 0,0,1
- 451 1316 451 1316 500 1358 c 0,2,3
- 536 1388 536 1388 557 1350 c 0,4,5
- 573 1321 573 1321 572 1262 c 0,6,7
- 571 1170 571 1170 518 1069 c 0,8,9
- 477 992 477 992 444 987 c 0,10,11
- 433 986 433 986 426 994 c 0,12,13
- 413 1007 413 1007 413.5 1066.5 c 128,-1,14
- 414 1126 414 1126 428 1198 c 0,0,1
-EndSplineSet
-Validated: 33
+Validated: 1
 EndChar

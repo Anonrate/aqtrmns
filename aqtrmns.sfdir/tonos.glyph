@@ -1,24 +1,12 @@
 StartChar: tonos
-Encoding: 900 900 363
-Width: 1020
+Encoding: 900 900 362
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"!!!u=2ummthuE`Wzzzzzzzzzzzzz
 EndImage
 Fore
-SplineSet
-96 1377 m 0,0,1
- 143 1430 143 1430 205 1467 c 128,-1,2
- 267 1504 267 1504 306 1504 c 0,3,4
- 360 1504 360 1504 360 1482 c 0,5,6
- 360 1457 360 1457 287 1377 c 0,7,8
- 240 1324 240 1324 178 1286.5 c 128,-1,9
- 116 1249 116 1249 76 1249 c 0,10,11
- 22 1249 22 1249 23 1271 c 0,12,13
- 23 1296 23 1296 96 1377 c 0,0,1
-EndSplineSet
 Validated: 1
 EndChar

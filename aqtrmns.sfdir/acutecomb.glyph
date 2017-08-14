@@ -1,24 +1,12 @@
 StartChar: acutecomb
-Encoding: 769 769 351
-Width: 1020
+Encoding: 769 769 350
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"!,qqr!Peefzzzzzzzzzzzzzz
 EndImage
 Fore
-SplineSet
-478 1440 m 0,0,1
- 525 1493 525 1493 587 1530.5 c 0,2,3
- 648 1568 648 1568 688 1568 c 0,4,5
- 742 1568 742 1568 742 1546 c 0,6,7
- 742 1521 742 1521 669 1440 c 0,8,9
- 622 1387 622 1387 560 1350 c 128,-1,10
- 498 1313 498 1313 459 1313 c 0,11,12
- 405 1313 405 1313 405 1335 c 0,13,14
- 405 1359 405 1359 478 1440 c 0,0,1
-EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

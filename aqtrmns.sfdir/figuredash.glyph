@@ -1,24 +1,12 @@
 StartChar: figuredash
-Encoding: 8210 8210 666
-Width: 1020
+Encoding: 8210 8210 665
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzzzzz5Q!bDzzzzzzzz
 EndImage
 Fore
-SplineSet
-128 612 m 128,-1,1
- 128 638 128 638 240.5 656.5 c 128,-1,2
- 353 675 353 675 510 675 c 128,-1,3
- 667 675 667 675 779.5 656.5 c 128,-1,4
- 892 638 892 638 892 612 c 128,-1,5
- 892 586 892 586 779.5 567 c 128,-1,6
- 667 548 667 548 510 548 c 128,-1,7
- 353 548 353 548 240.5 567 c 128,-1,0
- 128 586 128 586 128 612 c 128,-1,1
-EndSplineSet
 Validated: 1
 EndChar

@@ -1,25 +1,12 @@
 StartChar: gravecomb
-Encoding: 768 768 350
-Width: 1020
+Encoding: 768 768 349
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"%KH_6"+UEfzzzzzzzzzzzzzz
 EndImage
 Fore
-SplineSet
-351 1440 m 0,0,1
- 271 1529 271 1529 279 1552 c 0,2,3
- 284 1568 284 1568 332 1568 c 0,4,5
- 371 1568 371 1568 433 1530.5 c 128,-1,6
- 495 1493 495 1493 542 1440 c 0,7,8
- 622 1351 622 1351 614 1329 c 0,9,10
- 609 1313 609 1313 561 1313 c 0,11,12
- 535 1313 535 1313 497.5 1330 c 128,-1,13
- 460 1347 460 1347 421 1376.5 c 128,-1,14
- 382 1406 382 1406 351 1440 c 0,0,1
-EndSplineSet
-Validated: 33
+Validated: 1
 EndChar

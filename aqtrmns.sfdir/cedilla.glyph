@@ -1,24 +1,12 @@
 StartChar: cedilla
 Encoding: 184 184 122
-Width: 1020
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzzzzzzzzzz!!!%M!It9&!rrN*z
 EndImage
 Fore
-SplineSet
-392 -185 m 0,0,1
- 447 -65 447 -65 506 -34 c 0,2,3
- 553 -9 553 -9 568 -61 c 0,4,5
- 574 -80 574 -80 574 -109 c 0,6,7
- 574 -152 574 -152 539.5 -208.5 c 128,-1,8
- 505 -265 505 -265 456 -305 c 128,-1,9
- 407 -345 407 -345 370 -345 c 0,10,11
- 342 -345 342 -345 360 -271 c 0,12,13
- 370 -232 370 -232 392 -185 c 0,0,1
-EndSplineSet
-Validated: 33
+Validated: 1
 EndChar

@@ -1,8 +1,7 @@
 StartChar: uni258E
-Encoding: 9614 9614 978
-Width: 1020
+Encoding: 9614 9614 977
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
@@ -10,20 +9,5 @@ mHj.hJ:R+hn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqXn,VqX
 n,VqXn,VqXn,NFg
 EndImage
 Fore
-SplineSet
-0 612 m 0,0,1
- 0 1284 0 1284 13 1440 c 0,2,3
- 25 1584 25 1584 62 1615 c 0,4,5
- 82 1631 82 1631 128 1632 c 0,6,7
- 180 1632 180 1632 200 1608 c 0,8,9
- 235 1567 235 1567 246 1381 c 0,10,11
- 255 1216 255 1216 255 612 c 0,12,13
- 255 -60 255 -60 242 -217 c 0,14,15
- 230 -361 230 -361 193 -392 c 0,16,17
- 174 -408 174 -408 128 -408 c 0,18,19
- 76 -408 76 -408 55 -385 c 0,20,21
- 20 -344 20 -344 9 -158 c 0,22,23
- 0 8 0 8 0 612 c 0,0,1
-EndSplineSet
 Validated: 1
 EndChar

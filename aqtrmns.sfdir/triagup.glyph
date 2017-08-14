@@ -1,26 +1,12 @@
 StartChar: triagup
-Encoding: 9650 9650 997
-Width: 1020
+Encoding: 9650 9650 996
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzz!!!$"!<<4P"+UWl#J^l.&)\Q!+7MMi5PTa+J,K?Gs8Duuzzzz
 EndImage
 Fore
-SplineSet
-239 643 m 2,0,-1
- 478 1122 l 1,1,-1
- 714 659 l 2,2,3
- 812 468 812 468 882 318.5 c 128,-1,4
- 952 169 952 169 953 149 c 0,5,6
- 954 136 954 136 890 125.5 c 128,-1,7
- 826 115 826 115 716.5 108.5 c 128,-1,8
- 607 102 607 102 478 102 c 0,9,10
- 282 102 282 102 141 111.5 c 128,-1,11
- 0 121 0 121 0 133 c 0,12,13
- 0 165 0 165 239 643 c 2,0,-1
-EndSplineSet
-Validated: 33
+Validated: 1
 EndChar

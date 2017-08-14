@@ -1,26 +1,12 @@
 StartChar: guilsinglright
-Encoding: 8250 8250 688
-Width: 1020
+Encoding: 8250 8250 687
+Width: 2040
 VWidth: 0
-Flags: W
 LayerCount: 3
 Back
 Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
 mHj.hJ:IV"zzzzz!!!u=%KH_6"+UEf!8mir!,qqr!Peef#6556)uos=zzz
 EndImage
 Fore
-SplineSet
-382 643 m 2,0,1
- 165 866 165 866 261 867 c 0,2,3
- 300 867 300 867 393 800.5 c 128,-1,4
- 486 734 486 734 574 643 c 2,5,-1
- 790 420 l 1,6,-1
- 574 197 l 2,7,8
- 486 106 486 106 393 40 c 128,-1,9
- 300 -26 300 -26 261 -26 c 0,10,11
- 164 -26 164 -26 382 197 c 2,12,-1
- 599 420 l 1,13,-1
- 382 643 l 2,0,1
-EndSplineSet
-Validated: 33
+Validated: 1
 EndChar

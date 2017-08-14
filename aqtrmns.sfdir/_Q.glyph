@@ -47,6 +47,6 @@ SplineSet
  128 0 128 0 128 128 c 26,46,-1
  128 1148 l 26,24,25
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "* Maybe have the bottom right (Corner) actually look more like a corner, instead of how it looking like it's been +ACIA-raised+ACIA."
 EndChar

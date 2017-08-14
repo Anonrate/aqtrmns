@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1502491035
-ModificationTime: 1502721393
+ModificationTime: 1502722208
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ DisplaySize: -24
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 76 21
+WinInfo: 0 73 21
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 708669 354335 236222 0 -50332 236222 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
