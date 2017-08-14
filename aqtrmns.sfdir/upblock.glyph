@@ -1,0 +1,24 @@
+StartChar: upblock
+Encoding: 9600 9600 964
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:R\"s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8N'!zzzzzzzz
+EndImage
+Fore
+SplineSet
+0 1126 m 1,0,-1
+ 0 1638 l 1,1,-1
+ 512 1638 l 1,2,-1
+ 1024 1638 l 1,3,-1
+ 1024 1126 l 1,4,-1
+ 1024 614 l 1,5,-1
+ 512 614 l 1,6,-1
+ 0 614 l 1,7,-1
+ 0 1126 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

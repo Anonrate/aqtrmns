@@ -1,0 +1,24 @@
+StartChar: uni00AD
+Encoding: 173 173 111
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zzzzzzz+8?rQzzzzzzzz
+EndImage
+Fore
+SplineSet
+192 614 m 128,-1,1
+ 192 641 192 641 285 659.5 c 128,-1,2
+ 378 678 378 678 512 678 c 128,-1,3
+ 646 678 646 678 739 659.5 c 128,-1,4
+ 832 641 832 641 832 614 c 128,-1,5
+ 832 587 832 587 739 568.5 c 128,-1,6
+ 646 550 646 550 512 550 c 128,-1,7
+ 378 550 378 550 285 568.5 c 128,-1,0
+ 192 587 192 587 192 614 c 128,-1,1
+EndSplineSet
+Validated: 1
+EndChar

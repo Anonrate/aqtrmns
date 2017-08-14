@@ -1,0 +1,24 @@
+StartChar: uni23BC
+Encoding: 9148 9148 835
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zzzzzzzzzz!!*'!s8N'!zzzz
+EndImage
+Fore
+SplineSet
+0 166 m 128,-1,1
+ 0 194 0 194 143 212 c 128,-1,2
+ 286 230 286 230 512 230 c 128,-1,3
+ 738 230 738 230 881 212 c 128,-1,4
+ 1024 194 1024 194 1024 166 c 128,-1,5
+ 1024 138 1024 138 881 120 c 128,-1,6
+ 738 102 738 102 512 102 c 128,-1,7
+ 286 102 286 102 143 120 c 128,-1,0
+ 0 138 0 138 0 166 c 128,-1,1
+EndSplineSet
+Validated: 1
+EndChar

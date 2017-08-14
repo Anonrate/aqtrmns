@@ -1,0 +1,31 @@
+StartChar: greater
+Encoding: 62 62 33
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zz!!"tY)upHK#64jV!Pe]n!,qot!#ttY!&sst!8mmn"+UUV%KIIK2uipYzzz
+EndImage
+Fore
+SplineSet
+864 582 m 28,0,1
+ 576 294 576 294 288 6 c 28,2,3
+ 256 -26 256 -26 224 -26 c 156,-1,4
+ 192 -26 192 -26 160 -26 c 156,-1,5
+ 128 -26 128 -26 128 6 c 156,-1,6
+ 128 38 128 38 160 70 c 28,7,8
+ 416 326 416 326 672 582 c 28,9,10
+ 704 614 704 614 672 646 c 28,11,12
+ 416 902 416 902 160 1158 c 28,13,14
+ 128 1190 128 1190 128 1222 c 156,-1,15
+ 128 1254 128 1254 160 1254 c 156,-1,16
+ 192 1254 192 1254 224 1254 c 156,-1,17
+ 256 1254 256 1254 288 1222 c 28,18,19
+ 576 934 576 934 864 646 c 28,20,21
+ 896 614 896 614 864 582 c 28,0,1
+EndSplineSet
+Validated: 1
+Comment: "Don't think I'm liking the left where the angle to the middle start..  (That probably didn't make sence...)"
+EndChar

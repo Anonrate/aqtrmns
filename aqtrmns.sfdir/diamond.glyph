@@ -1,0 +1,26 @@
+StartChar: diamond
+Encoding: 9830 9830 1015
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zzzz!It9f#N--^+8A(uJ,Xrs5PuVu&+Bh^"2Fqfzzzzz
+EndImage
+Fore
+SplineSet
+256 838 m 2,0,1
+ 345 929 345 929 420.5 995.5 c 128,-1,2
+ 496 1062 496 1062 512 1062 c 128,-1,3
+ 528 1062 528 1062 603.5 995.5 c 128,-1,4
+ 679 929 679 929 768 838 c 2,5,-1
+ 985.599609375 614 l 1,6,-1
+ 748.799804688 374 l 1,7,-1
+ 512 134 l 1,8,-1
+ 275.200195312 374 l 1,9,-1
+ 38.400390625 614 l 1,10,-1
+ 256 838 l 2,0,1
+EndSplineSet
+Validated: 1
+EndChar

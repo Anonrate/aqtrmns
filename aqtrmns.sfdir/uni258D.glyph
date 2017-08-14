@@ -1,0 +1,25 @@
+StartChar: uni258D
+Encoding: 9613 9613 977
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:ROtquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWpquHWp
+quHWpquHWpqu?]s
+EndImage
+Fore
+SplineSet
+0 614 m 1,0,-1
+ 0 1638 l 1,1,-1
+ 192 1638 l 1,2,-1
+ 384 1638 l 1,3,-1
+ 384 614 l 1,4,-1
+ 384 -410 l 1,5,-1
+ 192 -410 l 1,6,-1
+ 0 -410 l 1,7,-1
+ 0 614 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

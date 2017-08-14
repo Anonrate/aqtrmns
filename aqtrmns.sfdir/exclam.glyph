@@ -1,0 +1,30 @@
+StartChar: exclam
+Encoding: 33 33 4
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zz!!!%M!It3$!It3$!It3$!It3$!It3$!It3$z!!!%M!It3$!It.Mzzz
+EndImage
+Fore
+SplineSet
+512 230 m 156,-1,1
+ 576 230 576 230 576 166 c 30,2,-1
+ 576 38 l 30,3,4
+ 576 -26 576 -26 512 -26 c 156,-1,5
+ 448 -26 448 -26 448 38 c 30,6,-1
+ 448 166 l 30,7,0
+ 448 230 448 230 512 230 c 156,-1,1
+448 1190 m 30,8,9
+ 448 1254 448 1254 512 1254 c 156,-1,10
+ 576 1254 576 1254 576 1190 c 30,11,-1
+ 576 486 l 30,12,13
+ 576 422 576 422 512 422 c 156,-1,14
+ 448 422 448 422 448 486 c 30,15,-1
+ 448 1190 l 30,8,9
+EndSplineSet
+Validated: 1
+Comment: "Starting to think I may use the 32 pixel spacing rather than the 64 because it matches what I have doing for the rest of the puncuation..  Equals, Greater Than etc..  That is considered punctuation, no?"
+EndChar

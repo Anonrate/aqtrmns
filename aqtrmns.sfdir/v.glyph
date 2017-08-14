@@ -1,0 +1,31 @@
+StartChar: v
+Encoding: 118 118 89
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zzzzz!!"\]0FTWD(`4),(`3Z8$nr)D#%.XC"2G#S"2Fm:zzz
+EndImage
+Fore
+SplineSet
+160 870 m 156,-1,1
+ 192 870 192 870 224 870 c 156,-1,2
+ 256 870 256 870 267 838 c 28,3,4
+ 446 299 446 299 496 198 c 28,5,6
+ 512 166 512 166 528 198 c 28,7,8
+ 588 318 588 318 757 838 c 28,9,10
+ 768 870 768 870 800 870 c 156,-1,11
+ 832 870 832 870 864 870 c 156,-1,12
+ 896 870 896 870 885 838 c 30,13,-1
+ 587 6 l 30,14,15
+ 576 -26 576 -26 544 -26 c 156,-1,16
+ 512 -26 512 -26 480 -26 c 156,-1,17
+ 448 -26 448 -26 437 6 c 30,18,-1
+ 139 838 l 30,19,0
+ 128 870 128 870 160 870 c 156,-1,1
+EndSplineSet
+Validated: 1
+Comment: "* Happyish with the results..+AAoA* This 'V' is a slut..  Not to be dirty or anything..  Just not sure if I like it..+AAoACgAA-Confusing I know.."
+EndChar

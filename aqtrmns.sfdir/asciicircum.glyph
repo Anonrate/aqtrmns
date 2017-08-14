@@ -1,0 +1,29 @@
+StartChar: asciicircum
+Encoding: 94 94 65
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"z!!!%M"2G0"%WECI3#hnuzzzzzzzzzzz
+EndImage
+Fore
+SplineSet
+544 1350 m 28,0,1
+ 704 1190 704 1190 864 1030 c 28,2,3
+ 896 998 896 998 864 998 c 28,4,5
+ 800 998 800 998 736 998 c 28,6,7
+ 704 998 704 998 672 1030 c 28,8,9
+ 608 1094 608 1094 544 1158 c 28,10,11
+ 512 1190 512 1190 480 1158 c 28,12,13
+ 416 1094 416 1094 352 1030 c 28,14,15
+ 320 998 320 998 288 998 c 28,16,17
+ 224 998 224 998 160 998 c 28,18,19
+ 128 998 128 998 160 1030 c 28,20,21
+ 320 1190 320 1190 480 1350 c 28,22,23
+ 512 1382 512 1382 544 1350 c 28,0,1
+EndSplineSet
+Validated: 1
+Comment: "There is something I wanted to say about this.. I'm sure of it."
+EndChar

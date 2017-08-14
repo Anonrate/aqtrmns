@@ -1,0 +1,303 @@
+SplineFontDB: 3.0
+FontName: aqtrmns
+FullName: AqTrmns
+FamilyName: Trmns
+Weight: Medium
+Copyright: Copyright (C) 2016 Dimitar Toshkov Zhekov; Copyright (c) 2017 Anonrate
+UComments: "2017-8-11: Created with FontForge (http://fontforge.org)+AAoACgAA-This is a modified version of the font Terminus orignally designed by Dimitar Toshkov Zhekov at http://terminus-font.sourceforge.net/.+AAoACgAA-The version which this font is based off of is 4.46 released 2017-06-26.+AAoA-The Change Log for this version is as follows: (As listed on http://terminus-font.sourceforge.net/)+AAoA-Version 4.46 (2017-06-26 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.46/):+AAoA* The X11 8-bit code pages are not installed by default.+AAoA* Added IBM-437 8-bit code page for X11.+AAoA* The CRT VGA weight for Linux console is not installed by default.+AAoA* Removed the Linux console mapping files.+AAoA* These should be provided by the console packages.+AAoA* Removed the BSD console installation.+AAoA* The recent BSD-s have a new console subsystem.+AAoA* Added 50 new characters. Mostly math, but also Buglarian yat and yus.+AAoA* Rewritten the font conversion tools in python/javascript.+AAoA* The full unicode range (17x64K) is now supported.+AAoA* The Windows installer can be built from sources.+AAoA* Small fixes and improvements (7 characters in various sizes).+AAoA* Renamed install-ref to install-psf-ref (uninstall too).+AAoACgAA-Version 4.40 (2017-06-26 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.40/):+AAoA* Added 6 combining accents as separate characters.+AAoA* Added 14 letters with dot above / dot below.+AAoA* Added partial subscript and superscript: all digits and 11 letters.+AAoA* Added 30+- math characters, notably large braces, brackets and parens.+AAoA* Added unicode range 2800-28FF in two variants (br1 and br2).+AAoA* A few small character fixes.+AAoA* Altered configure to be a bit more POSIX compliant.+AAoA* Replaced some obscure (un)install Makefile targets with variables.+AAoACgAA-Version 4.39 (2014-05-06 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.39/):+AAoA* Added ballot, checkmark, heavy ballot and heavy checkmark.+AAoA* Changed HT, LF etc. in sizes 14 and 18-hi2 to be proportional to the letter height, not the matrix height.+AAoA* Added the powerline characters E0A0..E0A2 and E0B0..E0B3.+AAoA* Added diameter (2300) - same glyph as empty set (2205).+AAoA* Small improvements in size 32.+AAoACgAA-Version 4.38 (2012-07-07 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.38/):+AAoA* Added 23 pseudographic characters, most notably rounded frames.+AAoA* Added new td1 variant with centered ascii tidle.+AAoA* Marked windows installer as +ACIA-admin level+ACIA. Hope it works under 7even.+AAoA* Fixed Y acute in sizes 22 and 28, internal optimizations (invisible).+AAoACgAA-Version 4.36 (2011-07-23 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.36/):+AAoA* Removed the rarely used cm2 variant.+AAoA* Added new ll2 variant with more distinctive l.+AAoA* Added quotereversed (201B), quotedblreversed (201F), I/i/U/u dotbelow (1ECA, 1ECB, 1EE4, 1EE5).+AAoA* Moved all quotes and alike in size 32 one line down.+AAoA* Small fixes and improvements (t commaaccent, quotes alignment etc. in some sizes).+AAoA* Windows installation: creates the relevant registry key.+AAoACgAA-Version 4.35 (2011-05-15 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.35/):+AAoA* Added hi2 variant for size 18.+AAoA* Fixes in size 18: normal V, normal W, bold X, H stroke, some pseudographic characters and the *NIX installation.+AAoACgAA-Version 4.34 (removed due to bugs):+AAoA* Added size 10x18.+AAoA* Small fixes and improvements in section, multiply, Eng, eng, Dje, dje, house, male, infinity, zeta and various other characters in the different sizes.+AAoA* The default cyrillic ghe is now ge1, with ge2 available as variant.+AAoACgAA-Version 4.32 (2010-12-12 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.32/):+AAoA* Slightly more distintive normal M and W.+AAoA* Rounded 28-bold, 32-normal, 32-bold.+AAoA* Also removed the 32-normal kx2 style.+AAoA* Small changes: Che/che stroke, phi, Zhe/zhe etc.+AAoA* Linux console: the default bold is now framebuffer.+AAoA* Smaller Makefile, GNU make required.+AAoA* Changed the font license to SIL OFL 1.1.+AAoA* It's FSF approved, no need to worry.+AAoA* And, as you can see, Terminus Font is now on sourceforge.+AAoACgAA-Version 4.30 (2010-06-30 - https://sourceforge.net/projects/terminus-font/files/terminus-font-4.30/:+AAoA* Added size 22 (not very good).+AAoA* Added nother 25 characters.+AAoA* Various small fixes and improvements.+AAoA* Changed the default prefix and x11dir.+AAoACgAA-Version 4.28 (Not listed at https://sourceforge.net/projects/terminus-font/files/):+AAoA* Heavy frames (written mostly by Tim Allen) and a few more letters.+AAoA* Altered trianges and arrows, small bugfixes.+AAoA* Reorganized the 512-character console font to include more letters instead of the IBM-437 specific pseudographics.+AAoACgAA-Information made available on the site:+AAoA-Terminus Font is a clean, fixed width bitmap font, designed for long (8 and more hours per day) work with computers. Version 4.46 contains 1291 characters, covers about 120 language sets and supports ISO8859-1/2/5/7/9/13/15/16, Paratype-PT154/PT254, KOI8-R/U/E/F, Esperanto, many IBM, Windows and Macintosh code pages, as well as the IBM VGA, vt100 and xterm pseudographic characters.+AAoACgAA-Sizes: 6x12, 8x14, 8x16, 10x18, 10x20, 11x22, 12x24, 14x28 and 16x32.+AAoA-Weights: normal and bold (except for 6x12), plus CRT VGA-bold for 8x14 and 8x16.+AAoACgAA-Screenshots (with ao2 and gq2 applied)+AAoA-http://terminus-font.sourceforge.net/shots.html+AAoACgAA-Character variants+AAoACgAA-ao1 ao1 +AD0A>  ao2 ao2 - nice, but sometimes hard to distinguish from 'o'.+AAoACgAA-dv2 dv2 +AD0A> dv1 dv1 - due to character matrix limitations, the printing de and ve are of slightly worse quality.+AAoACgAA-ge1 ge1 +AD0A> ge2 ge2 - only for 0433, 0453 and 0491, not 0493 and 0495+AAoACgAA-gq1 gq1 +AD0A> gq2 gq2 - some programs still use ` and ' as single quotes.+AAoACgAA-ij2 ij2 +AD0A> ij1 ij1 (also short i)+AAoACgAA-ka1 ka1 +AD0A> ka2 ka2 - the high cyrillic ka is used as decorative in Bulgaria; the latin 'k' is always high, of course.+AAoACgAA-ll1 ll1 +AD0A> ll2 ll2 - should pass the il1I test (depends on your resolution and monitor quality), but the horizontal alignment is a bit worse.+AAoACgAA-td2 td2 +AD0A> td1 td1 - perhaps td1 should be the default+AAoACgAA-hi1 hi1 +AD0A> hi2 hi2 - higher upper case letters, digits etc. for size 18 - looks better, but there is even less space between the lines.+AAoACgAA-br2 br2 +AD0A> br1 br1 - a bit more similar to Braille. X11 only, no Windows code page includes unicode range 2800-28FF.+AAoACgAA-Downloads:+AAoA* Unix/Linux source http://sourceforge.net/projects/terminus-font/files/terminus-font-4.46/terminus-font-4.46.tar.gz/download+AAoA* Windows Installer http://sourceforge.net/projects/terminus-font/files/terminus-font-4.46/terminus-font-4.46.exe/download+AAoA* View All Files http://sourceforge.net/projects/terminus-font/files/+AAoACgAA-Linux binary packages: check your distribution repository.+AAoACgAA-FAQ+AAoA-Q. Italic version?+AAoA-A. No. The quality is significantly lower, and preserving the font width requires overlapping characters, which are not handled very well by X11/Xft. Anyway, the modern GUIs support automatic slanting; if you are not satisfied with it, try mkitalic from FreeBSD or bdfslant from Debian.+AAoACgAA-Q. Scalable version?+AAoA-A. Long story short, when the average display resolution becomes at least 150 DPI. Prefferably 200.+AAoACgAA-Q. How about some new characters?+AAoA-A. Contact me and be ready to help.+AAoACgAA-Q. The bold 6x12 font...+AAoA-A. ...does not exist, there is no space for a bold font in a 6x12 matrix. However, the +ACIA-normal+ACIA font is somewhere between.+AAoACgAA-Q. The font works in X11/Motif, but not in GNOME/KDE/Xfce.+AAoA-A. Try adding 75-yes-terminus.conf to the Fontconfig configuration files. See also: mkfontscale(1), mkfontdir(1), fc-cache(1), xorg.conf(5), xfs(1), xlsfonts(1), fonts-conf(5) etc.+AAoACgAA-Q. The Windows executable contains a virus!+AAoA-A. With millions of Windows threats (at least signatures), and 40+- different scanners, the false positives are not rare. The executable is a valid zip archive, so you can open it and extract terminus.fon instead of running the installer. Or you can check it at Jotti Virusscan (http://virusscan.jotti.org/), VirusTotal (http://www.virustotal.com/) etc.+AAoACgAA-Legal information+AAoACgAA-Terminus Font is licensed under the SIL Open Font License, Version 1.1. The license is included as OFL.TXT, and is also available with a FAQ at http://scripts.sil.org/OFL+AAoACgAA-The font includes two variants of unicode range 2800-28FF, but does not support Braille in any way.+AAoACgAA-The files configure, configure.help, bdftopsf.pl, ucstoany.pl, fcp.c and terminus.nsi are distributed under the GNU General Public License version 2.0 or (at your choice) any later version.+AAoACgAA-THE END+AAoACgAA-I would like to add that I thank you so much sheckley (Dimitar Toshkov Zhekov) for creating this wonderful font.  It is truly one of a kind.  I've always been very picky with fonts.  Once I first saw your font, I was sold instantly.  Despite the updates prior to v4.40 being 3 years and this being a bitmap font..  Even though I had a lot of troubles trying to get this font to work when I first found it..  I have learned a lot about the work that goes into creating a font.  This has inspired me; you have inspired me to create my own font and learn about what it takes to actually creat a font and all the work.  It really is a lot of work and I am just getting started.  I have a lot of work ahead of me, but I know it will be worth it.+AAoACgAA-My goal is port your font over so it's scalable and still looks pretty at larger sizes.  I am aware that there is applications that can trace the gylphs such as Potrace and AutoTrace, but they do not nearly do the justice that you and this font deserve.+AAoACgAA-Once again, thank you for all of your hard work.  I was hoping send you an email but there was no contact information to do so.  I really hope you see this beacuse as said..  You deserve the appriciation.+AAoACgAA-Anonrate"
+FontLog: "Revision 1 of Terminus v4-46 (08-11-17):+AAoA* Start of this project+AAoA* Outlines based on +ACIA-ter-u32n.bdf+ACIA found in original source+AAoACgAA-08-13-2017:+AAoA-All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)+AAoA-I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.+AAoACgAA-08-14-2017:+AAoA-Finally have the base done, but there are still imporvmemnts to be done."
+Version: 4.46.1
+ItalicAngle: 0
+UnderlinePosition: -205
+UnderlineWidth: 102
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+LayerCount: 3
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+Layer: 2 1 "Back 2" 0
+XUID: [1021 606 993282259 8235840]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1502491035
+ModificationTime: 1502711642
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 213
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 213
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Original Designer: Dimitar Toshkov Zheko" "Possibly Needs Revising" "" "Original Designer URL: http://terminus-font.sourceforge.net/" "SIL Open Font License, Version 1.1" "http://scripts.sil.org/OFL" "" "" "" "AqTerminus"
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 0
+FitToEm: 0
+WidthSeparation: 154
+WinInfo: 0 76 21
+BeginPrivate: 0
+EndPrivate
+GridOrder2: 1
+Grid
+-2048 -250 m 4
+ 4096 -250 l 1028
+  Named: "g"
+-2048 -314 m 0
+ 4096 -314 l 1024
+  Named: "p"
+-2048 -346 m 0
+ 4096 -346 l 1024
+  Named: "p"
+96 2662 m 0
+ 96 -1434 l 1024
+  Named: "M"
+928 2662 m 0
+ 928 -1434 l 1024
+  Named: "J"
+960 2662 m 0
+ 960 -1434 l 1024
+  Named: "J"
+64 2662 m 0
+ 64 -1434 l 1024
+  Named: "&"
+-2048 1350 m 0
+ 4096 1350 l 1024
+  Named: "$"
+-2048 -186 m 0,0,-1
+ 4096 -186 l 1024
+  Named: "_1"
+-2048 -122 m 0,2,-1
+ 4096 -122 l 1024
+  Named: "_1"
+-2048 -58 m 0,4,-1
+ 4096 -58 l 1024
+  Named: "_0"
+-2048 -90 m 0,6,-1
+ 4096 -90 l 1024
+  Named: "_0"
+-2048 -154 m 0,8,-1
+ 4096 -154 l 1024
+  Named: "_0"
+-2048 -218 m 0,10,-1
+ 4096 -218 l 1024
+  Named: "_0"
+-2047 198 m 0,12,-1
+ 4097 198 l 1024
+  Named: "5"
+-2048 1030 m 0,14,-1
+ 4096 1030 l 1024
+  Named: "1"
+-2048 1126 m 0,16,-1
+ 4096 1126 l 1024
+  Named: "0"
+-2048 102 m 0,18,-1
+ 4096 102 l 1024
+  Named: "0"
+-2048 1094 m 0,0,-1
+ 4096 1094 l 1024
+  Named: "/"
+-2048 134 m 0,2,-1
+ 4096 134 l 1024
+  Named: "/"
+-2047 70 m 0,4,-1
+ 4097 70 l 1024
+  Named: "/"
+-2048 1158 m 0,6,-1
+ 4096 1158 l 1024
+  Named: "/"
+-2048 518 m 0,8,-1
+ 4096 518 l 1024
+  Named: "+-"
+-2048 710 m 0,10,-1
+ 4096 710 l 1024
+  Named: "+-"
+-2048 582 m 0,12,-1
+ 4096 582 l 1024
+  Named: "+-"
+-2048 646 m 0,14,-1
+ 4096 646 l 1024
+  Named: "+-"
+-2048 1062 m 0,16,-1
+ 4096 1062 l 1024
+  Named: "+ACIA"
+-2048 1318 m 0,18,-1
+ 4096 1318 l 1024
+  Named: "+ACIA"
+-2048 1382 m 0,20,-1
+ 4096 1382 l 1024
+  Named: "+ACIA"
+-2048 166 m 0,22,-1
+ 4096 166 l 1024
+  Named: "!"
+-2048 38 m 0,0,-1
+ 4096 38 l 1024
+-2048 6 m 0,2,-1
+ 4096 6 l 1024
+-2048 1190 m 0,4,-1
+ 4096 1190 l 1024
+-2049 1222 m 0,6,-1
+ 4095 1222 l 1024
+896 -1434 m 0,8,-1
+ 896 2662 l 0,9,-1
+ 896 -1434 l 0,8,-1
+800 -1434 m 0,10,-1
+ 800 2662 l 0,11,-1
+ 800 -1434 l 0,10,-1
+864 -1434 m 0,12,-1
+ 864 2662 l 0,13,-1
+ 864 -1434 l 0,12,-1
+768 -1435 m 0,14,-1
+ 768 2661 l 0,15,-1
+ 768 -1435 l 0,14,-1
+736 -1434 m 0,16,-1
+ 736 2662 l 0,17,-1
+ 736 -1434 l 0,16,-1
+672 -1434 m 0,18,-1
+ 672 2662 l 0,19,-1
+ 672 -1434 l 0,18,-1
+640 -1434 m 0,20,-1
+ 640 2662 l 0,21,-1
+ 640 -1434 l 0,20,-1
+608 -1434 m 0,22,-1
+ 608 2662 l 0,23,-1
+ 608 -1434 l 0,22,-1
+832 -1435 m 0,24,-1
+ 832 2661 l 0,25,-1
+ 832 -1435 l 0,24,-1
+704 -1440 m 0,26,-1
+ 704 2656 l 0,27,-1
+ 704 -1440 l 0,26,-1
+576 -1434 m 0,28,-1
+ 576 2662 l 0,29,-1
+ 576 -1434 l 0,28,-1
+448 -1434 m 0,30,-1
+ 448 2662 l 0,31,-1
+ 448 -1434 l 0,30,-1
+352 -1434 m 0,32,-1
+ 352 2662 l 0,33,-1
+ 352 -1434 l 0,32,-1
+416 -1434 m 0,34,-1
+ 416 2662 l 0,35,-1
+ 416 -1434 l 0,34,-1
+320 -1435 m 0,36,-1
+ 320 2661 l 0,37,-1
+ 320 -1435 l 0,36,-1
+288 -1434 m 0,38,-1
+ 288 2662 l 0,39,-1
+ 288 -1434 l 0,38,-1
+224 -1434 m 0,40,-1
+ 224 2662 l 0,41,-1
+ 224 -1434 l 0,40,-1
+192 -1434 m 0,42,-1
+ 192 2662 l 0,43,-1
+ 192 -1434 l 0,42,-1
+160 -1434 m 0,44,-1
+ 160 2662 l 0,45,-1
+ 160 -1434 l 0,44,-1
+384 -1435 m 0,46,-1
+ 384 2661 l 0,47,-1
+ 384 -1435 l 0,46,-1
+256 -1440 m 0,48,-1
+ 256 2656 l 0,49,-1
+ 256 -1440 l 0,48,-1
+128 -1434 m 0,50,-1
+ 128 2662 l 0,51,-1
+ 128 -1434 l 0,50,-1
+-2048 550 m 0,52,-1
+ 4096 550 l 1024
+  Named: "hc-64"
+4063 742 m 0,54,-1
+ -2081 742 l 0,55,-1
+ 4063 742 l 0,54,-1
+4064 774 m 0,56,-1
+ -2080 774 l 0,57,-1
+ 4064 774 l 0,56,-1
+4063 998 m 0,58,-1
+ -2081 998 l 0,59,-1
+ 4063 998 l 0,58,-1
+4063 966 m 0,60,-1
+ -2081 966 l 0,61,-1
+ 4063 966 l 0,60,-1
+4066 870 m 0,62,-1
+ -2078 870 l 0,63,-1
+ 4066 870 l 0,62,-1
+4069 838 m 0,64,-1
+ -2075 838 l 0,65,-1
+ 4069 838 l 0,64,-1
+4061 902 m 0,66,-1
+ -2083 902 l 0,67,-1
+ 4061 902 l 0,66,-1
+4063 806 m 0,68,-1
+ -2081 806 l 0,69,-1
+ 4063 806 l 0,68,-1
+4063 934 m 0,70,-1
+ -2081 934 l 0,71,-1
+ 4063 934 l 0,70,-1
+4096 230 m 0,72,-1
+ -2048 230 l 0,73,-1
+ 4096 230 l 0,72,-1
+4097 262 m 0,74,-1
+ -2047 262 l 0,75,-1
+ 4097 262 l 0,74,-1
+4096 486 m 0,76,-1
+ -2048 486 l 0,77,-1
+ 4096 486 l 0,76,-1
+4096 454 m 0,78,-1
+ -2048 454 l 0,79,-1
+ 4096 454 l 0,78,-1
+4099 358 m 0,80,-1
+ -2045 358 l 0,81,-1
+ 4099 358 l 0,80,-1
+4102 326 m 0,82,-1
+ -2042 326 l 0,83,-1
+ 4102 326 l 0,82,-1
+4094 390 m 0,84,-1
+ -2050 390 l 0,85,-1
+ 4094 390 l 0,84,-1
+4096 294 m 0,86,-1
+ -2048 294 l 0,87,-1
+ 4096 294 l 0,86,-1
+4096 422 m 0,88,-1
+ -2048 422 l 0,89,-1
+ 4096 422 l 0,88,-1
+480 2662 m 0,90,-1
+ 480 -1434 l 1024
+  Named: "vc-32"
+544 2662 m 0,92,-1
+ 544 -1434 l 1024
+  Named: "vc+-32"
+512 2662 m 0,94,-1
+ 512 -1434 l 1024
+  Named: "vc"
+-2048 -26 m 0,96,-1
+ 4096 -26 l 1024
+-2048 1254 m 0,98,-1
+ 4096 1254 l 1024
+-2045 614 m 0,100,-1
+ 4099 614 l 1024
+  Named: "hc"
+-2047 678 m 0,102,-1
+ 4097 678 l 1024
+  Named: "hc+-64"
+EndSplineSet
+TeXData: 1 0 0 708670 354335 236222 0 -2147484 236222 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

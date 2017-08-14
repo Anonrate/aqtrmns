@@ -1,0 +1,24 @@
+StartChar: uni208B
+Encoding: 8331 8331 716
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zzzzzzzzzzz+7LBAzzzz
+EndImage
+Fore
+SplineSet
+192 102 m 128,-1,1
+ 192 129 192 129 276 147.5 c 128,-1,2
+ 360 166 360 166 480 166 c 128,-1,3
+ 600 166 600 166 684 147.5 c 128,-1,4
+ 768 129 768 129 768 102 c 128,-1,5
+ 768 75 768 75 684 56.5 c 128,-1,6
+ 600 38 600 38 480 38 c 128,-1,7
+ 360 38 360 38 276 56.5 c 128,-1,0
+ 192 75 192 75 192 102 c 128,-1,1
+EndSplineSet
+Validated: 1
+EndChar

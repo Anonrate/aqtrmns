@@ -1,0 +1,45 @@
+StartChar: five
+Encoding: 53 53 24
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zz!!#7]5Q!280E<d,0E<d,0E=?,5PP3u!"8i9!"8i9!":Oi3"-o(&+BQ!zzz
+EndImage
+Fore
+SplineSet
+128 1222 m 30,0,1
+ 128 1254 128 1254 160 1254 c 28,2,3
+ 512 1254 512 1254 864 1254 c 28,4,5
+ 896 1254 896 1254 896 1222 c 30,6,-1
+ 896 1158 l 30,7,8
+ 896 1126 896 1126 864 1126 c 28,9,10
+ 576 1126 576 1126 288 1126 c 28,11,12
+ 256 1126 256 1126 256 1094 c 30,13,-1
+ 256 774 l 30,14,15
+ 256 742 256 742 288 742 c 28,16,17
+ 528 742 528 742 768 742 c 28,18,19
+ 896 742 896 742 896 614 c 30,20,-1
+ 896 102 l 30,21,22
+ 896 -26 896 -26 768 -26 c 28,23,24
+ 512 -26 512 -26 256 -26 c 28,25,26
+ 128 -26 128 -26 128 102 c 30,27,-1
+ 128 198 l 30,28,29
+ 128 230 128 230 160 230 c 156,-1,30
+ 192 230 192 230 224 230 c 156,-1,31
+ 256 230 256 230 256 198 c 30,32,-1
+ 256 166 l 30,33,34
+ 256 102 256 102 320 102 c 28,35,36
+ 528 102 528 102 736 102 c 28,37,38
+ 768 102 768 102 768 134 c 30,39,-1
+ 768 550 l 30,40,41
+ 768 614 768 614 704 614 c 28,42,43
+ 432 614 432 614 160 614 c 28,44,45
+ 128 614 128 614 128 646 c 30,46,-1
+ 128 1222 l 30,0,1
+EndSplineSet
+Validated: 1
+Comment: "The bottom left of the five looks a bit fat to me.  Notice how that some of the curves are 32 pixels apart and others 64.  I'm comfidient with my decision in have it be 32 pixels for all cases such as the top right of the 5, but for the top left, I'm not sure if I'm confidient in choosing 32 or 64.  I looked at the previous numbers as a reference, but none have really been like this.  But when I think about it the bottom on the number two may help with my final decision..  Yes both the two and one use 32 pixels so that is my final decision."
+EndChar

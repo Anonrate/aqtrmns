@@ -1,0 +1,24 @@
+StartChar: bar
+Encoding: 124 124 95
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"zz!!!%M!It3$!It3$!It3$!It3$!It3$!It3$!It3$!It3$!It3$!It.Mzzz
+EndImage
+Fore
+SplineSet
+480 1254 m 156,-1,1
+ 512 1254 512 1254 544 1254 c 156,-1,2
+ 576 1254 576 1254 576 1222 c 30,3,-1
+ 576 6 l 30,4,5
+ 576 -26 576 -26 544 -26 c 156,-1,6
+ 512 -26 512 -26 480 -26 c 156,-1,7
+ 448 -26 448 -26 448 6 c 30,8,-1
+ 448 1222 l 30,9,0
+ 448 1254 448 1254 480 1254 c 156,-1,1
+EndSplineSet
+Validated: 1
+EndChar

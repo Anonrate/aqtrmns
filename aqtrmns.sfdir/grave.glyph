@@ -1,0 +1,25 @@
+StartChar: grave
+Encoding: 96 96 67
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 3
+Back
+Image: 16 32 0 2 2 0 0 1638 64 64 0
+mHj.hJ:IV"%KH_6"+UEfzzzzzzzzzzzzzz
+EndImage
+Fore
+SplineSet
+320 1510 m 156,-1,1
+ 384 1446 384 1446 448 1382 c 156,-1,2
+ 512 1318 512 1318 576 1318 c 28,3,4
+ 608 1318 608 1318 640 1318 c 28,5,6
+ 704 1318 704 1318 640 1382 c 156,-1,7
+ 576 1446 576 1446 512 1510 c 156,-1,8
+ 448 1574 448 1574 384 1574 c 28,9,10
+ 352 1574 352 1574 320 1574 c 28,11,0
+ 256 1574 256 1574 320 1510 c 156,-1,1
+EndSplineSet
+Validated: 9
+Comment: "* Do what I did with the '+AH4A'"
+EndChar
