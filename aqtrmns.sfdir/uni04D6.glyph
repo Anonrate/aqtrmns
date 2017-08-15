@@ -1,13 +1,15 @@
 StartChar: uni04D6
 Encoding: 1238 1238 587
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"$nr)D#N,^"!!#7]5Q!280E<d,0E<d,0E<d,5N"ca0E<d,0E<d,0E<d,0E=?85PtK]
-zzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:LH=pjdnaJ:N1Fz
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

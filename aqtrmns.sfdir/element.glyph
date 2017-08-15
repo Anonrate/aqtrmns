@@ -1,12 +1,15 @@
 StartChar: element
 Encoding: 8712 8712 768
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"zz!!!&t#Q,&3(]YBQ0E<d,0E<d,5Q!bD0E<d,0E<d,(]YBQ%KHb3!W2otzzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:IV"!'!5opjbUhz
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

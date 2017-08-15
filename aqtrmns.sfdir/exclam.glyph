@@ -1,29 +1,43 @@
 StartChar: exclam
 Encoding: 33 33 4
-Width: 1020
+Width: 1024
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1657.5 63.75 63.75 0
-mHj.hJ:IV"zz!!!%M!It3$!It3$!It3$!It3$!It3$!It3$z!!!%M!It3$!It.Mzzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:IV"+<VdL+93N,z
 EndImage
 Fore
 SplineSet
-510 255 m 156,-1,1
- 574 255 574 255 574 191 c 30,2,-1
- 574 64 l 30,3,4
- 574 0 574 0 510 0 c 156,-1,5
- 446 0 446 0 446 64 c 30,6,-1
- 446 191 l 30,7,0
- 446 255 446 255 510 255 c 156,-1,1
-446 1211 m 30,8,9
- 446 1275 446 1275 510 1275 c 156,-1,10
- 574 1275 574 1275 574 1211 c 30,11,-1
- 574 510 l 30,12,13
- 574 446 574 446 510 446 c 156,-1,14
- 446 446 446 446 446 510 c 30,15,-1
- 446 1211 l 30,8,9
+512 256 m 156,-1,1
+ 575 256 575 256 575 193 c 30,2,-1
+ 575 63 l 30,3,4
+ 575 0 575 0 512 0 c 156,-1,5
+ 449 0 449 0 449 63 c 30,6,-1
+ 449 193 l 30,7,0
+ 449 256 449 256 512 256 c 156,-1,1
+449 1217 m 30,8,9
+ 449 1280 449 1280 512 1280 c 156,-1,10
+ 575 1280 575 1280 575 1217 c 30,11,-1
+ 575 512 l 30,12,13
+ 575 449 575 449 512 449 c 156,-1,14
+ 449 449 449 449 449 512 c 30,15,-1
+ 449 1217 l 30,8,9
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+510 340 m 25,0,-1
+ 510 0 l 25,1,-1
+ 340 0 l 25,2,-1
+ 340 340 l 25,3,-1
+ 510 340 l 25,0,-1
+340 1360 m 29,4,-1
+ 510 1360 l 25,5,-1
+ 510 510 l 25,6,-1
+ 340 510 l 29,7,-1
+ 340 1360 l 29,4,-1
 EndSplineSet
 Validated: 1
 Comment: "Starting to think I may use the 32 pixel spacing rather than the 64 because it matches what I have doing for the rest of the puncuation..  Equals, Greater Than etc..  That is considered punctuation, no?"

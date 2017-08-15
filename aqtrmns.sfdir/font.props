@@ -8,32 +8,34 @@ UComments: "2017-8-11: Created with FontForge (http://fontforge.org)+AAoACgAA-Th
 FontLog: "Revision 1 of Terminus v4-46 (08-11-17):+AAoA* Start of this project+AAoA* Outlines based on +ACIA-ter-u32n.bdf+ACIA found in original source+AAoACgAA-08-13-2017:+AAoA-All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)+AAoA-I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.+AAoACgAA-08-14-2017:+AAoA-Finally have the base done, but there are still imporvmemnts to be done."
 Version: 4.46.1
 ItalicAngle: 0
-UnderlinePosition: -204
-UnderlineWidth: 101
-Ascent: 1657
-Descent: 383
+UnderlinePosition: -100.352
+UnderlineWidth: 49.152
+Ascent: 1706
+Descent: 342
 InvalidEm: 0
 LayerCount: 3
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-Layer: 2 1 "Back 2" 0
+Layer: 2 1 "Lines" 0
 XUID: [1021 606 993282259 8235840]
+StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1502491035
-ModificationTime: 1502722539
-PfmFamily: 49
+ModificationTime: 1502804214
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 212
+LineGap: 90
 VLineGap: 0
+Panose: 2 0 6 9 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 212
+OS2TypoLinegap: 90
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -42,6 +44,16 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2SubXSize: 653
+OS2SubYSize: 702
+OS2SubXOff: 0
+OS2SubYOff: 141
+OS2SupXSize: 653
+OS2SupYSize: 702
+OS2SupXOff: 0
+OS2SupYOff: 481
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
@@ -51,11 +63,84 @@ Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -24
+DisplayLayer: 2
 AntiAlias: 0
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 73 22
+WinInfo: 0 73 21
 BeginPrivate: 0
 EndPrivate
-TeXData: 1 0 0 708668 354335 236222 0 -50332 236222 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+Grid
+1020 2730 m 4
+ 1020 -1366 l 1028
+935 2730 m 0
+ 935 -1366 l 1024
+765 2730 m 0
+ 765 -1366 l 1024
+595 2730 m 0
+ 595 -1366 l 1024
+425 2730 m 0
+ 425 -1366 l 1024
+255 2730 m 0
+ 255 -1366 l 1024
+85 2730 m 0
+ 85 -1366 l 1024
+-2048 1700 m 0
+ 4096 1700 l 1024
+-2048 1445 m 0
+ 4096 1445 l 1024
+-2048 1530 m 0
+ 4096 1530 l 1024
+-2048 1615 m 0
+ 4096 1615 l 1024
+-2048 -255 m 0
+ 4096 -255 l 1024
+-2048 -170 m 0
+ 4096 -170 l 1024
+-2048 -85 m 0
+ 4096 -85 l 1024
+-2048 85 m 0
+ 4096 85 l 1024
+-2048 170 m 0
+ 4096 170 l 1024
+-2048 255 m 0
+ 4096 255 l 1024
+-2048 425 m 0
+ 4096 425 l 1024
+-2048 595 m 0
+ 4096 595 l 1024
+-2048 680 m 0
+ 4096 680 l 1024
+-2048 765 m 0
+ 4096 765 l 1024
+-2048 935 m 0
+ 4096 935 l 1024
+-2048 1105 m 0
+ 4096 1105 l 1024
+-2048 1190 m 0
+ 4096 1190 l 1024
+-2048 1275 m 0
+ 4096 1275 l 1024
+850 2730 m 0
+ 850 -1366 l 1024
+680 2730 m 0
+ 680 -1366 l 1024
+510 2730 m 0
+ 510 -1366 l 1024
+-2048 340 m 0
+ 4096 340 l 1024
+-2048 510 m 0
+ 4096 510 l 1024
+-2048 850 m 0
+ 4096 850 l 1024
+-2048 1020 m 0
+ 4096 1020 l 1024
+170 2730 m 0
+ 170 -1366 l 1024
+340 2730 m 0
+ 340 -1366 l 1024
+-2028 1360 m 0
+ 4116 1360 l 1024
+EndSplineSet
+TeXData: 1 0 0 257004 128502 85668 205603 514008 85665 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont

@@ -1,13 +1,15 @@
 StartChar: napostrophe
 Encoding: 329 329 265
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"z!!"\Q0E<d,0E>J\?iU0,!!#7Q5PQoP0FTWD0FTWD0FTWD0FTWD0FTWD0FRp]
-zzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:IVb5_/?[LkpkCz
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

@@ -1,12 +1,15 @@
 StartChar: onequarter
 Encoding: 188 188 126
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"zz!!!E-)ur)$$ig\?$k<[c$oeZ7!8mmt"-*U-%Q5;=36#t;@K$62!!WE'zzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:Ko#6qC,s8=1fM#RCD1
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

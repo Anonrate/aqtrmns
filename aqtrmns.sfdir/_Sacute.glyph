@@ -1,13 +1,15 @@
 StartChar: Sacute
 Encoding: 346 346 282
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"!,qqr!Peef!!!Q!+8@f80FTWD0E<d,0E='4+7Kg9!#ttI!"8i90FTWD3#j%8&+BQ!
-zzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:J1RE/9$`#RH6*z
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

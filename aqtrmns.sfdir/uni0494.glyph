@@ -1,13 +1,15 @@
 StartChar: uni0494
 Encoding: 1172 1172 547
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"zz!!#7]5Q!280E<d,0E<d,0E<d,0E=?,5PQoP0FTWD0FTWD0FTWD0FRpi!"8iE
-!&+BQz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:IV"pjdmFn;)mV#S6t9
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar

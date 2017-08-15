@@ -1,12 +1,15 @@
 StartChar: uni283F
 Encoding: 10303 10303 1088
-Width: 2040
+Width: 1024
 VWidth: 0
+Flags: W
 LayerCount: 3
 Back
-Image: 16 32 0 2 2 0 0 1631.6 63.75 63.75 0
-mHj.hJ:IV"!!!iQ(`4),(`35Qz!!!iQ(`4),(`35Qz!!!iQ(`4),(`35Qzzzzz
+Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
+4$,NSJ:L0]!(]W\84W^\z
 EndImage
 Fore
+Validated: 1
+Layer: 2
 Validated: 1
 EndChar
