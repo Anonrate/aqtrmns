@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1502491035
-ModificationTime: 1502806154
+ModificationTime: 1502812562
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2361,7 +2361,7 @@ StartChar: B
 Encoding: 66 66 37
 Width: 1024
 VWidth: 0
-Flags: MWO
+Flags: MW
 LayerCount: 3
 Back
 Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
@@ -2478,7 +2478,29 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1190 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 680 1360 l 25,2,-1
+ 850 1190 l 25,3,-1
+ 850 1020 l 25,4,-1
+ 680 1020 l 25,5,-1
+ 680 1105 l 25,6,-1
+ 595 1190 l 25,7,-1
+ 255 1190 l 25,8,-1
+ 170 1105 l 25,9,-1
+ 170 255 l 25,10,-1
+ 255 170 l 25,11,-1
+ 595 170 l 25,12,-1
+ 680 255 l 25,13,-1
+ 680 340 l 25,14,-1
+ 850 340 l 25,15,-1
+ 850 170 l 25,16,-1
+ 680 0 l 25,17,-1
+ 170 0 l 25,18,-1
+ 0 170 l 25,19,-1
+ 0 1190 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: D
@@ -2514,7 +2536,22 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1190 m 29,0,-1
+ 170 170 l 29,1,-1
+ 425 170 l 29,2,-1
+ 680 425 l 29,3,-1
+ 680 935 l 29,4,-1
+ 425 1190 l 29,5,-1
+ 170 1190 l 29,0,-1
+0 1360 m 29,6,-1
+ 510 1360 l 29,7,-1
+ 850 1020 l 29,8,-1
+ 850 340 l 29,9,-1
+ 510 0 l 29,10,-1
+ 0 0 l 29,11,-1
+ 0 1360 l 29,6,-1
+EndSplineSet
 EndChar
 
 StartChar: E
@@ -2557,7 +2594,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 850 1360 l 29,1,-1
+ 850 1190 l 29,2,-1
+ 170 1190 l 29,3,-1
+ 170 850 l 29,4,-1
+ 680 850 l 29,5,-1
+ 680 680 l 29,6,-1
+ 170 680 l 29,7,-1
+ 170 170 l 29,8,-1
+ 850 170 l 29,9,-1
+ 850 0 l 29,10,-1
+ 0 0 l 29,11,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: F
@@ -2596,7 +2647,19 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 25,0,-1
+ 850 1360 l 25,1,-1
+ 850 1190 l 25,2,-1
+ 170 1190 l 25,3,-1
+ 170 850 l 25,4,-1
+ 680 850 l 25,5,-1
+ 680 680 l 25,6,-1
+ 170 680 l 25,7,-1
+ 170 0 l 29,8,-1
+ 0 0 l 25,9,-1
+ 0 1360 l 25,0,-1
+EndSplineSet
 EndChar
 
 StartChar: G
@@ -2643,7 +2706,31 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1190 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 680 1360 l 25,2,-1
+ 850 1190 l 25,3,-1
+ 850 1020 l 25,4,-1
+ 680 1020 l 25,5,-1
+ 680 1105 l 25,6,-1
+ 595 1190 l 25,7,-1
+ 255 1190 l 25,8,-1
+ 170 1105 l 25,9,-1
+ 170 255 l 25,10,-1
+ 255 170 l 25,11,-1
+ 595 170 l 25,12,-1
+ 680 255 l 25,13,-1
+ 680 510 l 25,14,-1
+ 340 510 l 25,15,-1
+ 340 680 l 25,16,-1
+ 850 680 l 25,17,-1
+ 850 170 l 25,18,-1
+ 680 0 l 25,19,-1
+ 170 0 l 25,20,-1
+ 0 170 l 25,21,-1
+ 0 1190 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: H
@@ -2686,7 +2773,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 170 850 l 25,2,-1
+ 680 850 l 25,3,-1
+ 680 1360 l 25,4,-1
+ 850 1360 l 25,5,-1
+ 850 0 l 25,6,-1
+ 680 0 l 25,7,-1
+ 680 680 l 25,8,-1
+ 170 680 l 25,9,-1
+ 170 0 l 25,10,-1
+ 0 0 l 25,11,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: I
@@ -2729,7 +2830,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1360 m 29,0,-1
+ 680 1360 l 25,1,-1
+ 680 1190 l 25,2,-1
+ 510 1190 l 25,3,-1
+ 510 170 l 25,4,-1
+ 680 170 l 25,5,-1
+ 680 0 l 25,6,-1
+ 170 0 l 25,7,-1
+ 170 170 l 25,8,-1
+ 340 170 l 25,9,-1
+ 340 1190 l 25,10,-1
+ 170 1190 l 25,11,-1
+ 170 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: J
@@ -2772,7 +2887,25 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+340 1360 m 29,0,-1
+ 850 1360 l 25,1,-1
+ 850 1190 l 25,2,-1
+ 680 1190 l 25,3,-1
+ 680 170 l 25,4,-1
+ 510 0 l 25,5,-1
+ 170 0 l 25,6,-1
+ 0 170 l 25,7,-1
+ 0 510 l 25,8,-1
+ 170 510 l 25,9,-1
+ 170 255 l 25,10,-1
+ 255 170 l 25,11,-1
+ 425 170 l 25,12,-1
+ 510 255 l 25,13,-1
+ 510 1190 l 25,14,-1
+ 340 1190 l 25,15,-1
+ 340 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: K
@@ -2817,7 +2950,20 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 170 1360 l 29,1,-1
+ 170 850 l 29,2,-1
+ 680 1360 l 29,3,-1
+ 935 1360 l 29,4,-1
+ 255 680 l 29,5,-1
+ 935 0 l 29,6,-1
+ 680 0 l 29,7,-1
+ 170 510 l 29,8,-1
+ 170 0 l 29,9,-1
+ 0 0 l 29,10,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 Comment: "* My OCD is getting to me.  I don't like how the right side is +ACIA-Flush+ACIA vertically and the lowercase 'k' is +ACIA-Flushed' horizontally.+AAoA* The central(?) area of the 'K' is to fat..  I managed to work around this on the '+AH4A' and the results came out pleasantly.  I'm not able to exactly explain what I did, but what I did there should probably be done here as well.."
 EndChar
 
@@ -2849,7 +2995,15 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 170 170 l 25,2,-1
+ 850 170 l 25,3,-1
+ 850 0 l 25,4,-1
+ 0 0 l 25,5,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: M
@@ -2898,7 +3052,23 @@ SplineSet
 EndSplineSet
 Validated: 33
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 170 1360 l 29,1,-1
+ 170 1275 l 29,2,-1
+ 425 1020 l 29,3,-1
+ 680 1275 l 29,4,-1
+ 680 1360 l 29,5,-1
+ 850 1360 l 29,6,-1
+ 850 0 l 29,7,-1
+ 680 0 l 29,8,-1
+ 680 1020 l 29,9,-1
+ 425 765 l 29,10,-1
+ 170 1020 l 29,11,-1
+ 170 0 l 29,12,-1
+ 0 0 l 29,13,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 Comment: "* I have mixed feelings about this 'M'..  Specifically the central(?) area.."
 EndChar
 
@@ -2943,7 +3113,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 0 m 25,0,-1
+ 0 1360 l 25,1,-1
+ 170 1360 l 25,2,-1
+ 170 1190 l 29,3,-1
+ 680 680 l 29,4,-1
+ 680 1360 l 25,5,-1
+ 850 1360 l 25,6,-1
+ 850 0 l 25,7,-1
+ 680 0 l 25,8,-1
+ 680 425 l 25,9,-1
+ 170 935 l 25,10,-1
+ 170 0 l 25,11,-1
+ 0 0 l 25,0,-1
+EndSplineSet
 Comment: "* I think I'm happy with the outcome of this 'N'.."
 EndChar
 
@@ -3040,7 +3224,24 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1190 m 29,0,-1
+ 170 680 l 29,1,-1
+ 595 680 l 29,2,-1
+ 680 765 l 29,3,-1
+ 680 1105 l 29,4,-1
+ 595 1190 l 29,5,-1
+ 170 1190 l 29,0,-1
+0 0 m 29,6,-1
+ 0 1360 l 29,7,-1
+ 680 1360 l 29,8,-1
+ 850 1190 l 29,9,-1
+ 850 680 l 29,10,-1
+ 680 510 l 29,11,-1
+ 170 510 l 29,12,-1
+ 170 0 l 29,13,-1
+ 0 0 l 29,6,-1
+EndSplineSet
 EndChar
 
 StartChar: Q
@@ -3093,7 +3294,34 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+680 255 m 25,0,-1
+ 680 1105 l 25,1,-1
+ 595 1190 l 25,2,-1
+ 255 1190 l 25,3,-1
+ 170 1105 l 25,4,-1
+ 170 255 l 25,5,-1
+ 255 170 l 25,6,-1
+ 340 170 l 25,7,-1
+ 340 340 l 25,8,-1
+ 510 340 l 25,9,-1
+ 510 170 l 25,10,-1
+ 595 170 l 25,11,-1
+ 680 255 l 25,0,-1
+0 1190 m 25,12,-1
+ 170 1360 l 25,13,-1
+ 680 1360 l 25,14,-1
+ 850 1190 l 25,15,-1
+ 850 170 l 17,16,-1
+ 680 0 l 9,17,-1
+ 575 0 l 25,18,-1
+ 745 -170 l 25,19,-1
+ 530 -170 l 21,20,-1
+ 360 0 l 13,21,-1
+ 170 0 l 25,22,-1
+ 0 170 l 25,23,-1
+ 0 1190 l 25,12,-1
+EndSplineSet
 Comment: "* Maybe have the bottom right (Corner) actually look more like a corner, instead of how it looking like it's been +ACIA-raised+ACIA."
 EndChar
 
@@ -3142,7 +3370,27 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1190 m 25,0,-1
+ 170 680 l 25,1,-1
+ 595 680 l 25,2,-1
+ 680 765 l 25,3,-1
+ 680 1105 l 25,4,-1
+ 595 1190 l 25,5,-1
+ 170 1190 l 25,0,-1
+0 0 m 25,6,-1
+ 0 1360 l 25,7,-1
+ 680 1360 l 25,8,-1
+ 850 1190 l 25,9,-1
+ 850 680 l 25,10,-1
+ 680 510 l 17,11,-1
+ 340 510 l 5,12,-1
+ 850 0 l 1,13,-1
+ 595 0 l 1,14,-1
+ 170 425 l 9,15,-1
+ 170 0 l 25,16,-1
+ 0 0 l 25,6,-1
+EndSplineSet
 Comment: "* Refer to 'K'"
 EndChar
 
@@ -3194,7 +3442,37 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1190 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 680 1360 l 25,2,-1
+ 850 1190 l 25,3,-1
+ 850 1020 l 25,4,-1
+ 680 1020 l 25,5,-1
+ 680 1105 l 25,6,-1
+ 595 1190 l 25,7,-1
+ 255 1190 l 25,8,-1
+ 170 1105 l 25,9,-1
+ 170 935 l 25,10,-1
+ 255 850 l 25,11,-1
+ 680 850 l 25,12,-1
+ 850 680 l 25,13,-1
+ 850 170 l 25,14,-1
+ 680 0 l 25,15,-1
+ 170 0 l 25,16,-1
+ 0 170 l 25,17,-1
+ 0 340 l 25,18,-1
+ 170 340 l 25,19,-1
+ 170 255 l 25,20,-1
+ 255 170 l 25,21,-1
+ 595 170 l 25,22,-1
+ 680 255 l 25,23,-1
+ 680 595 l 25,24,-1
+ 595 680 l 25,25,-1
+ 170 680 l 25,26,-1
+ 0 850 l 25,27,-1
+ 0 1190 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: T
@@ -3229,7 +3507,17 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 850 1360 l 25,1,-1
+ 850 1190 l 25,2,-1
+ 510 1190 l 25,3,-1
+ 510 0 l 25,4,-1
+ 340 0 l 25,5,-1
+ 340 1190 l 25,6,-1
+ 0 1190 l 25,7,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: U
@@ -3264,7 +3552,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 1360 m 29,0,-1
+ 170 1360 l 25,1,-1
+ 170 255 l 25,2,-1
+ 255 170 l 25,3,-1
+ 595 170 l 25,4,-1
+ 680 255 l 25,5,-1
+ 680 1360 l 25,6,-1
+ 850 1360 l 25,7,-1
+ 850 170 l 25,8,-1
+ 680 0 l 25,9,-1
+ 170 0 l 25,10,-1
+ 0 170 l 25,11,-1
+ 0 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: V
@@ -3298,7 +3600,16 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1360 m 25,0,-1
+ 425 340 l 25,1,-1
+ 680 1360 l 25,2,-1
+ 850 1360 l 25,3,-1
+ 510 0 l 21,4,-1
+ 340 0 l 1,5,-1
+ 0 1360 l 9,6,-1
+ 170 1360 l 25,0,-1
+EndSplineSet
 Comment: "* This 'V' is a slut..  Not to be dirty or anything..  Just not sure if I like it.."
 EndChar
 
@@ -3348,7 +3659,23 @@ SplineSet
 EndSplineSet
 Validated: 33
 Layer: 2
-Validated: 1
+SplineSet
+850 0 m 29,0,-1
+ 680 0 l 29,1,-1
+ 680 85 l 29,2,-1
+ 425 340 l 29,3,-1
+ 170 85 l 29,4,-1
+ 170 0 l 29,5,-1
+ 0 0 l 29,6,-1
+ 0 1360 l 29,7,-1
+ 170 1360 l 29,8,-1
+ 170 340 l 29,9,-1
+ 425 595 l 29,10,-1
+ 680 340 l 29,11,-1
+ 680 1360 l 29,12,-1
+ 850 1360 l 29,13,-1
+ 850 0 l 29,0,-1
+EndSplineSet
 Comment: "* Refer to 'M'+AAoA-NOTE: Upside down 'M'"
 EndChar
 
@@ -3396,7 +3723,21 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1360 m 29,0,-1
+ 425 850 l 25,1,-1
+ 680 1360 l 25,2,-1
+ 850 1360 l 25,3,-1
+ 510 680 l 25,4,-1
+ 850 0 l 25,5,-1
+ 680 0 l 25,6,-1
+ 425 510 l 25,7,-1
+ 170 0 l 25,8,-1
+ 0 0 l 25,9,-1
+ 340 680 l 25,10,-1
+ 0 1360 l 25,11,-1
+ 170 1360 l 29,0,-1
+EndSplineSet
 Comment: "This fucker looks like it has aids..+AAoA* Refer to '*'"
 EndChar
 
@@ -3410,18 +3751,6 @@ Back
 Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
 4$,NSJ:IV"Lknl(+<VdLz
 EndImage
-SplineSet
-172 1364 m 29,0,-1
- 427 682 l 29,1,-1
- 682 1364 l 29,2,-1
- 852 1364 l 29,3,-1
- 512 530 l 29,4,-1
- 512 0 l 29,5,-1
- 342 0 l 29,6,-1
- 342 531 l 29,7,-1
- 2 1364 l 29,8,-1
- 172 1364 l 29,0,-1
-EndSplineSet
 Fore
 SplineSet
 161 1280 m 152,-1,1
@@ -3446,7 +3775,18 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+172 1364 m 29,0,-1
+ 427 682 l 29,1,-1
+ 682 1364 l 29,2,-1
+ 852 1364 l 29,3,-1
+ 512 530 l 29,4,-1
+ 512 0 l 29,5,-1
+ 342 0 l 29,6,-1
+ 342 531 l 29,7,-1
+ 2 1364 l 29,8,-1
+ 172 1364 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: Z
@@ -3540,7 +3880,17 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1360 m 29,0,-1
+ 680 1360 l 29,1,-1
+ 680 1190 l 29,2,-1
+ 340 1190 l 29,3,-1
+ 340 170 l 29,4,-1
+ 680 170 l 29,5,-1
+ 680 0 l 29,6,-1
+ 170 0 l 29,7,-1
+ 170 1360 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: backslash
@@ -3616,7 +3966,17 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+680 0 m 29,0,-1
+ 170 0 l 29,1,-1
+ 170 170 l 29,2,-1
+ 510 170 l 29,3,-1
+ 510 1190 l 29,4,-1
+ 170 1190 l 29,5,-1
+ 170 1360 l 29,6,-1
+ 680 1360 l 29,7,-1
+ 680 0 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: asciicircum
@@ -3649,7 +4009,15 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+180 1020 m 25,0,-1
+ 425 1320 l 25,1,-1
+ 670 1020 l 29,2,-1
+ 850 1020 l 25,3,-1
+ 425 1530 l 25,4,-1
+ 0 1020 l 25,5,-1
+ 180 1020 l 25,0,-1
+EndSplineSet
 Comment: "There is something I wanted to say about this.. I'm sure of it."
 EndChar
 
@@ -3675,7 +4043,13 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+0 0 m 29,0,-1
+ 850 0 l 25,1,-1
+ 850 -170 l 25,2,-1
+ 0 -170 l 25,3,-1
+ 0 0 l 29,0,-1
+EndSplineSet
 EndChar
 
 StartChar: grave
@@ -3704,7 +4078,13 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+360 1700 m 25,0,-1
+ 700 1360 l 25,1,-1
+ 490 1360 l 29,2,-1
+ 150 1700 l 29,3,-1
+ 360 1700 l 25,0,-1
+EndSplineSet
 Comment: "* Do what I did with the '+AH4A'"
 EndChar
 
@@ -4203,7 +4583,20 @@ SplineSet
 EndSplineSet
 Validated: 1
 Layer: 2
-Validated: 1
+SplineSet
+170 1360 m 25,0,-1
+ 340 1360 l 25,1,-1
+ 340 680 l 25,2,-1
+ 680 1020 l 29,3,-1
+ 935 1020 l 29,4,-1
+ 425 510 l 25,5,-1
+ 935 0 l 25,6,-1
+ 680 0 l 25,7,-1
+ 340 340 l 25,8,-1
+ 340 0 l 25,9,-1
+ 170 0 l 25,10,-1
+ 170 1360 l 25,0,-1
+EndSplineSet
 Comment: "I think I'm okay with this 'k'.."
 EndChar
 
@@ -4934,29 +5327,28 @@ EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
-853 1365 m 29,0,-1
- 513 1365 l 29,1,-1
- 343 1195 l 29,2,-1
- 343 770 l 29,3,-1
- 173 770 l 29,4,-1
- 173 598 l 29,5,-1
- 343 598 l 29,6,-1
- 343 173 l 29,7,-1
- 513 3 l 29,8,-1
- 853 3 l 29,9,-1
- 853 173 l 21,10,-1
- 598 173 l 5,11,-1
- 513 258 l 5,12,-1
- 513 598 l 5,13,-1
- 428 638 l 5,14,-1
- 428 730 l 5,15,-1
- 513 770 l 13,16,-1
- 513 1110 l 29,17,-1
- 598 1195 l 29,18,-1
- 853 1195 l 29,19,-1
- 853 1365 l 29,0,-1
+850 1360 m 29,0,-1
+ 510 1360 l 29,1,-1
+ 340 1190 l 29,2,-1
+ 340 765 l 29,3,-1
+ 170 765 l 29,4,-1
+ 170 595 l 29,5,-1
+ 340 595 l 29,6,-1
+ 340 170 l 29,7,-1
+ 510 0 l 29,8,-1
+ 850 0 l 29,9,-1
+ 850 170 l 21,10,-1
+ 595 170 l 5,11,-1
+ 510 255 l 5,12,-1
+ 510 595 l 5,13,-1
+ 425 638 l 5,14,-1
+ 425 730 l 5,15,-1
+ 510 765 l 13,16,-1
+ 510 1105 l 29,17,-1
+ 595 1190 l 29,18,-1
+ 850 1190 l 29,19,-1
+ 850 1360 l 29,0,-1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: bar
@@ -4984,13 +5376,12 @@ EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
-512 1364 m 29,0,-1
- 512 0 l 29,1,-1
- 342 0 l 29,2,-1
- 342 1364 l 29,3,-1
- 512 1364 l 29,0,-1
+510 1360 m 29,0,-1
+ 510 0 l 25,1,-1
+ 340 0 l 25,2,-1
+ 340 1360 l 25,3,-1
+ 510 1360 l 29,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceright
@@ -5040,36 +5431,35 @@ EndSplineSet
 Validated: 33
 Layer: 2
 SplineSet
-173 3 m 29,0,-1
- 513 3 l 29,1,-1
- 683 173 l 29,2,-1
- 683 598 l 29,3,-1
- 853 598 l 29,4,-1
- 853 770 l 29,5,-1
- 683 770 l 29,6,-1
- 683 1195 l 29,7,-1
- 513 1365 l 29,8,-1
- 173 1365 l 29,9,-1
- 173 1195 l 21,10,-1
- 428 1195 l 5,11,-1
- 513 1110 l 5,12,-1
- 513 770 l 5,13,-1
- 598 730 l 5,14,-1
- 598 638 l 5,15,-1
- 513 598 l 13,16,-1
- 513 258 l 29,17,-1
- 428 173 l 29,18,-1
- 173 173 l 29,19,-1
- 173 3 l 29,0,-1
+170 0 m 29,0,-1
+ 510 0 l 29,1,-1
+ 680 170 l 29,2,-1
+ 680 595 l 29,3,-1
+ 850 595 l 29,4,-1
+ 850 765 l 29,5,-1
+ 680 765 l 29,6,-1
+ 680 1190 l 29,7,-1
+ 510 1360 l 29,8,-1
+ 170 1360 l 29,9,-1
+ 170 1190 l 21,10,-1
+ 425 1190 l 5,11,-1
+ 510 1105 l 5,12,-1
+ 510 765 l 5,13,-1
+ 595 722 l 5,14,-1
+ 595 630 l 5,15,-1
+ 510 595 l 13,16,-1
+ 510 255 l 29,17,-1
+ 425 170 l 29,18,-1
+ 170 170 l 29,19,-1
+ 170 0 l 29,0,-1
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 97
 Width: 1024
 VWidth: 0
-Flags: MW
+Flags: MWO
 LayerCount: 3
 Back
 Image: 6 12 0 1 2 0 0 1706 170.667 170.667 0
@@ -5106,27 +5496,27 @@ EndSplineSet
 Validated: 33
 Layer: 2
 SplineSet
-516 1365 m 29,0,-1
- 346 1535 l 29,1,-1
- 176 1535 l 29,2,-1
- 6 1365 l 29,3,-1
- 6 1025 l 29,4,-1
- 176 1025 l 29,5,-1
- 176 1280 l 29,6,-1
- 261 1365 l 29,7,-1
- 346 1280 l 25,8,-1
- 346 1195 l 25,9,-1
- 516 1025 l 25,10,-1
- 686 1025 l 25,11,-1
- 856 1195 l 25,12,-1
- 856 1535 l 25,13,-1
- 686 1535 l 25,14,-1
- 686 1280 l 25,15,-1
- 601 1195 l 25,16,-1
- 516 1280 l 25,17,-1
- 516 1365 l 29,0,-1
+510 1360 m 25,0,-1
+ 340 1530 l 25,1,-1
+ 170 1530 l 25,2,-1
+ 0 1360 l 25,3,-1
+ 0 1020 l 25,4,-1
+ 170 1020 l 25,5,-1
+ 170 1275 l 25,6,-1
+ 255 1360 l 25,7,-1
+ 340 1275 l 25,8,-1
+ 340 1190 l 25,9,-1
+ 510 1020 l 25,10,-1
+ 680 1020 l 25,11,-1
+ 850 1190 l 17,12,-1
+ 850 1200 l 4,13,-1
+ 850 1530 l 9,14,-1
+ 680 1530 l 25,15,-1
+ 680 1275 l 25,16,-1
+ 595 1190 l 25,17,-1
+ 510 1275 l 25,18,-1
+ 510 1360 l 25,0,-1
 EndSplineSet
-Validated: 9
 Comment: "This was a lot harder than it should have been..."
 EndChar
 
