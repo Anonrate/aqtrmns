@@ -1,18 +1,18 @@
 <h1>AqTrmns - Finally an Outline font variant of Terminus!</h1>
 # Table of Contents
-* [Introduction](#introduction)
-    * [Screenshots](#screenshots)
-  * [Process](#process)
-* [Requirements](#requirements)
-* [Installation](#installation)
-  * [Retrieving the Code](#tetrieving-the-code)
-* [FAQ](#faq)
-  * [What is a Bitmap Font?](#what-is-a-bitmap-font?)
-  * [What is a *Scalable* Font](#what-is-a-scalable-font?)
-  * [What is Terminus?](#what-is-terminus?)
-  * [What is FontForge?](#what-is-font-forge?)
-  * [What is a Font?](#what-is-a-font?)
-* [My Appriciation](#icantspell)
+- [Introduction](#introduction)
+    - [Screenshots](#screenshots)
+  - [Process](#process)
+- [Requirements](#requirements)
+- [Installation](#installation)
+  - [Retrieving the Code](#tetrieving-the-code)
+- [FAQ](#faq)
+  - [What is a Bitmap Font?](#what-is-a-bitmap-font?)
+  - [What is a *Scalable* Font](#what-is-a-scalable-font?)
+  - [What is Terminus?](#what-is-terminus?)
+  - [What is FontForge?](#what-is-font-forge?)
+  - [What is a Font?](#what-is-a-font?)
+- [My Appriciation](#icantspell)
 
 ## Introduction
 **AqTrmns** (or Aq *Terminus*) is a remake of the
