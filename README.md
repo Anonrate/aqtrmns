@@ -35,6 +35,7 @@ Installing the **AqTrmns**
 <details>
 <summary><a name="what-is-terminus?">What is Terminus?</a></summary>
 This is what is stated for what [Terminus](terminussite) is on the [Main Page](terminussite).
+
 > Terminus Font is a clean, fixed width bitmap font, designed for long (8 and more hours per day) work with computers. Version 4.46 contains 1291 characters, covers about 120 language sets and supports ISO8859-1/2/5/7/9/13/15/16, Paratype-PT154/PT254, KOI8-R/U/E/F, Esperanto, many IBM, Windows and Macintosh code pages, as well as the IBM VGA, vt100 and xterm pseudographic characters.
 </details>
 
@@ -75,4 +76,5 @@ https://en.wikipedia.org/wiki/Font
 [fontforgeereads]:http://designwithfontforge.com/en-US/index.html "A book about how to create new Typefaces using FontForge"
 
 <h2><a name="icantspell">My Appriciation</a></h2>
+
 > I would like to add that I thank you so much sheckley (Dimitar Toshkov Zhekov) for creating this wonderful font.  It is truly one of a kind.  I've always been very picky with fonts.  Once I first saw your font, I was sold instantly.  Despite the updates prior to v4.40 being 3 years and this being a bitmap font..  Even though I had a lot of troubles trying to get this font to work when I first found it..  I have learned a lot about the work that goes into creating a font.  This has inspired me; you have inspired me to create my own font and learn about what it takes to actually creat a font and all the work.  It really is a lot of work and I am just getting started. I have a lot of work ahead of me, but I know it will be worth it.<p>My goal is port your font over so it's scalable and still looks pretty at larger sizes.  I am aware that there is applications that can trace the gylphs such as Potrace and AutoTrace, but they do not nearly do the justice that you and this font deserve.</p><p>Once again, thank you for all of your hard work.  I was hoping send you an email but there was no contact information to do so. I really hope you see this beacuse as said..  You deserve the appriciation.</p><p>**Anonrate**</p>
