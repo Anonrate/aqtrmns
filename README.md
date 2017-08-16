@@ -69,7 +69,7 @@ Seems that I'm not able to show the screenshots directly from
 
 #### Character Variants
 <dl>
-<dt><a name="ao2"><b>ao1</b></a></dt><dd>ao1 ![alt text](ao1img) =>  ao2 ao2 -
+<dt><a name="ao2"><b>ao1</b></a></dt><dd>ao1 ![alt text][ao1img] =>  ao2 ao2 -
   nice, but sometimes hard to distinguish from 'o'.</dd>
 
 dv2 dv2 => dv1 dv1 - due to character matrix limitations, the printing de and
