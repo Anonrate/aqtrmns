@@ -1,4 +1,4 @@
-<center><h1>AqTrmns - Finally an Outline font variant of Terminus!</h1></center>
+<h1>AqTrmns - Finally an Outline font variant of Terminus!</h1>
 # Table of Contents
 * [Introduction](#introduction)
     * [Screenshots](#screenshots)
