@@ -115,4 +115,76 @@ All Numeric Characters Traced.  (Not including SuperScript and SubScript Numeric
 I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
 
 08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
+Finally have the base done, but there are still imporvmemnts to be done.Revision 1 of Terminus v4-46 (08-11-17):
+* Start of this project
+* Outlines based on "ter-u32n.bdf" found in original source
+
+08-13-2017:
+All Numeric Characters Traced.  (Not including SuperScript and SubScript Numerics)
+I'm considering depeding on how the SuperScript and SubScript characters look, using just straight outlines could quite possible look better visually.
+
+08-14-2017:
 Finally have the base done, but there are still imporvmemnts to be done.
