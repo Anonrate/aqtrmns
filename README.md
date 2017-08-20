@@ -1,3 +1,16 @@
+# BIG UPDATE
+The "TerminusTTF_u20n" is the font file you want to use.  I know it says "u20n" in the filename, but that is only because that is the file (ter-u20n.bdf) that I outlined everything (Currently just alphanumeric and the last Powerline Symbols at the end of the font) from.  I am currently using it right now at a size of 12..  I have not noticed many problems except for possibly the letter 'm' and the 'z' so far.  In the font preview (GUI Font Installer) those letters looked a bit like shit, but I'm guessing it's just the viewer because they are being shown fine for me right now.
+
+Things that I have noticed for sure that need fixing are as follows:
+- The capital letter 'I' (The capital version of the lower case letter 'i'.  Still confused?  The uppercase variant of the letter inbetween the letter 'u' and the letter 'o' on the keyboard.)  It looks a lot like ']' and I haven't even done that character yet..
+- Uppercase 'R' looks like it has down syndrome.
+- Spacing between the 'k' and 'l' in "sheckley" needs to be done something with..
+- The Trinagle symbols (Powerline) go a bit to high as well with the *Git arrow* one.
+- I'm seeing some weird shit going on with the upper case letter 'M'.  Looks like it's to close on the left hand side..  If that made sense.
+- Top of the '4' looks a bit "Fat"
+
+So far that's all I see.  Some additonal info is that if there is a diagnole line...  It is 45 degrees..  No inbetween or anything.
+
 # Table of Contents
 - [Introduction](#introduction)
     - [Screenshots](#screenshots)
