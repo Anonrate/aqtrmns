@@ -8,6 +8,7 @@ Things that I have noticed for sure that need fixing are as follows:
 - The Trinagle symbols (Powerline) go a bit to high as well with the *Git arrow* one.
 - I'm seeing some weird shit going on with the upper case letter 'M'.  Looks like it's to close on the left hand side..  If that made sense.
 - Top of the '4' looks a bit "Fat"
+- Spacing between the number '1' and '9'.  Looks like this if you use the font: 19231343156719834
 
 So far that's all I see.  Some additonal info is that if there is a diagnole line...  It is 45 degrees..  No inbetween or anything.
 
